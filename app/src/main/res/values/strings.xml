@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sensitivity Finder</string>
+    <string name="DPI">DPI</string>
+    <string name="Sensitivity">Sensitivity</string>
+    <string name="cm_360">cm/360</string>
+    <string name="Yaw">Yaw</string>
+    <string name="sensitivity_all_dpi">Sensitivity All DPI</string>
+    <string name="Find_cm_360">Find cm/360</string>
+    <string name="sensitivity_from_cm_360">Sensitivity from cm/360</string>
+    <string name="relative_scope_sensitivity">Relative Scope Sensitivity</string>
+    <string name="current_scope">Current  Scope</string>
+    <string name="clear">Clear</string>
+    <string name="find_sens">Find Sens.</string>
+    <string name="calculate">Calculate</string>
+    <string name="new_scope_or_Sens">New Scope or Sens.</string>
+    <string name="ashe">Ashe</string>
+    <string name="new_scope_or_sensitivity">New Scope or Sensitivity</string>
+</resources>
